@@ -1,0 +1,24 @@
+img{
+    size: 8em;
+    height: 200px;
+    width: 200px;
+}
+/*h1{
+    color: aqua;
+    font-style: italic;
+}
+a:hover{
+    color:chartreuse;
+}
+#form{
+  height: 350px;
+  width: 250px;
+  border: 2px;
+  padding: 5px;
+  border-style: dashed;
+  border-color:red;
+}
+form{
+    background-color: chartreuse;
+    border-radius: 10px;
+}
